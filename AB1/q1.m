@@ -1,4 +1,4 @@
-% Sabendo que i(t) é a entrada e y(t) é a saída, temos:
+% Sabendo que i(t) Ã© a entrada e y(t) Ã© a saÃ­da, temos:
 % dy(t)/dt = v(t) => y(t) = x1, dy(t)/dt = x1'
 % v(t) = x2 = x1'
 
